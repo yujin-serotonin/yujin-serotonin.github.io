@@ -95,6 +95,17 @@ div.lazy {
     font-size: 100%;
 }
 
+.tag-badge {
+    display: inline-block;
+    background-color: #eef1f5;
+    color: #495057;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 0.25rem 0.65rem;
+    margin: 0 0.35rem 0.35rem 0;
+    border-radius: 0.4rem;
+}
+
 .email-text {
     font-family: "Fira Code", Courier, monospace;
 }
