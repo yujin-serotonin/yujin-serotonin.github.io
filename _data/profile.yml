@@ -3,14 +3,13 @@ secondary_name: ""
 navbar_name: "Yujin Choi"
 
 positions:
+  - name: 1st year M.S.-Ph.D. Student
+  - name: Yonsei University
   - logo: /assets/images/badges/Yonsei_symbol_official.jpg  # Logo is optional
-    name: Graduate student at Yonsei University
-
-
 email: "yujin3460@yonsei.ac.kr"
 # cv_link: link-to-your-cv-file
 gscholar: # xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: yujin-serotonin
+#github: yujin-serotonin
 twitter: yujin_serotonin  # Do not include the '@' symbol
 linkedin: yujin-c-219969179
 orcid: 0000-0001-5505-2367
@@ -24,11 +23,14 @@ tags:
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A graduate student in Biotechnology at <a href="https://en.wikipedia.org/wiki/Yonsei_University" target="_blank">Yonsei University</a> in South Korea.
+    I am Yujin Choi, a 1st year graduate student in the Department of Biotechnology, <a href="https://en.wikipedia.org/wiki/Yonsei_University" target="_blank">Yonsei University</a> in South Korea.
+  </p>
+  <p> 
+  Currently, I work in <a href="https://hyejinkang2022.wixsite.com/website" target="_blank"> Cell Signaling and Molecular Pharmacology laboratory</a>,
+  <br>supervised by Prof. Hye Jin Kang, Ph.D.
   </p>
   <p>
-  My research interests center on the development and validation of small-molecule ligands targeting orphan GPCRs, with the goal of elucidating their signaling mechanisms. 
-  Because orphan GPCRs remain largely undrugged despite their abundance in the human genome, I am particularly interested in how ligand-based tools can accelerate their deorphanization and reveal new therapeutic opportunities.
+  My research interests center on the development and validation of small-molecule ligands targeting orphan GPCRs, with the goal of elucidating their signaling mechanisms and therapeutic potentials.
   </p>
   <p>
     Pronouns: He/Him
